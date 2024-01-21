@@ -1,0 +1,14 @@
+# ninja log v5
+17	841	6945554979282113	CMakeFiles/wet2.dir/Team.cpp.obj	7bae865901541690
+3	505	6947267984258986	CMakeFiles/wet2.dir/UnionFindPlayers.cpp.obj	3509b38ae8180fdd
+1	288	6994910629856143	build.ninja	6148faa11665d3f0
+14	540	6945410110744814	CMakeFiles/wet2.dir/Player.cpp.obj	d7ba9df41440d1a6
+93	1128	6947249146179124	CMakeFiles/wet2.dir/worldcup23a2.cpp.obj	3ebb23ea17b49b4b
+3	828	6946441074463933	CMakeFiles/wet2.dir/main23a2.cpp.obj	93810b9649a6a210
+506	989	6947267989055338	wet2.exe	f6ce2f682ab4886c
+10	380	6994910923637702	CMakeFiles/wet2.dir/UnionFindPlayers.cpp.obj	908db1263dc8be75
+18	414	6994910923963210	CMakeFiles/wet2.dir/Team.cpp.obj	57afb5e62b82e67d
+26	416	6994910923995217	CMakeFiles/wet2.dir/Player.cpp.obj	673d49cf07d2d584
+1	472	6994910924557901	CMakeFiles/wet2.dir/main23a2.cpp.obj	2c81d77b68b61c23
+33	533	6994910925161878	CMakeFiles/wet2.dir/worldcup23a2.cpp.obj	88367877511e3ac0
+533	650	6994910926301146	wet2.exe	b3a5c904acb8a41

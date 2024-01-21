@@ -1,0 +1,63 @@
+add_team 1
+add_team 2
+add_team 3
+add_team 4
+remove_team 4
+add_team 11
+add_team 21
+add_team 31
+add_team 41
+remove_team 21
+remove_team 4
+play_match 1 2
+get_team_points 1
+get_team_points 2
+play_match 1 21
+add_player 1001 1 2,3,4,5,1 500 15 2 true
+add_player 2001 2 4,3,5,2,1 0 17 1 false
+add_player 1002 1 2,3,4,5,1 0 15 2 true
+add_player 2002 2 4,3,5,2,1 0 17 1 false
+add_player 1003 1 2,3,4,5,1 0 15 2 true
+add_player 2003 2 4,3,5,2,1 0 17 1 true
+add_player 1004 1 2,3,4,5,1 0 15 2 true
+add_player 2004 2 4,3,5,2,1 0 17 1 true
+add_player 3001 3 4,3,5,2,1 0 0 1 false
+add_player 3002 3 4,3,5,2,1 0 0 1 false
+add_player 3003 3 4,3,5,2,1 0 0 1 false
+num_played_games_for_player 1001
+num_played_games_for_player 1002
+num_played_games_for_player 1003
+play_match 1 3
+num_played_games_for_player 1001
+num_played_games_for_player 1002
+num_played_games_for_player 1003
+add_player 3003 3 4,3,5,2,1 0 0 1 true
+add_player 3004 3 4,3,5,2,1 0 0 1 true
+play_match 1 3
+get_team_points 1
+num_played_games_for_player 1001
+num_played_games_for_player 1002
+num_played_games_for_player 1003
+num_played_games_for_player 2001
+num_played_games_for_player 2002
+num_played_games_for_player 2003
+buy_team 1 2
+num_played_games_for_player 1001
+num_played_games_for_player 1002
+num_played_games_for_player 1003
+num_played_games_for_player 2001
+num_played_games_for_player 2002
+num_played_games_for_player 2003
+get_team_points 1
+remove_team 2
+add_team 2
+get_team_points 2
+play_match 1 3
+get_team_points 1
+get_team_points 3
+num_played_games_for_player 1001
+num_played_games_for_player 1002
+num_played_games_for_player 1003
+num_played_games_for_player 2001
+num_played_games_for_player 2002
+num_played_games_for_player 2003

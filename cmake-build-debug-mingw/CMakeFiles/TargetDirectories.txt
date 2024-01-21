@@ -1,0 +1,3 @@
+C:/Users/kingh/Desktop/Semester3/DataStructures1/HomeworkWet/DataStructuresWet2/dataStructuresWet2/cmake-build-debug-mingw/CMakeFiles/wet2.dir
+C:/Users/kingh/Desktop/Semester3/DataStructures1/HomeworkWet/DataStructuresWet2/dataStructuresWet2/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/kingh/Desktop/Semester3/DataStructures1/HomeworkWet/DataStructuresWet2/dataStructuresWet2/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+get_partial_spirit 61499
+
+
+we get:
+out should be:
+get_partial_spirit: SUCCESS, 5,3,1,2,4
